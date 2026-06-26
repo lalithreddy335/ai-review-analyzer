@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from openai import OpenAI
+import os
 
-# Load data
 df = pd.read_csv('analyzed_reviews.csv')
 
 st.set_page_config(page_title="AI Review Analyzer", page_icon="🤖", layout="wide")
@@ -11,7 +11,6 @@ st.set_page_config(page_title="AI Review Analyzer", page_icon="🤖", layout="wi
 st.title("🤖 AI Customer Review Analyzer")
 st.subheader("Powered by OpenAI GPT-3.5 + Snowflake")
 
-# KPI Cards
 col1, col2, col3, col4 = st.columns(4)
 with col1:
     st.metric("Total Reviews", len(df))
@@ -57,9 +56,9 @@ st.dataframe(df[['sentiment', 'score', 'theme', 'summary']].head(20), use_contai
 
 st.divider()
 st.subheader("💬 Ask AI About Reviews")
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-user_question = st.text_input("Ask a question about the reviews (e.g. 'What are customers complaining about?')")
+user_question = st.text_input("Ask a question about the reviews")
 if user_question:
     summaries = df['summary'].tolist()[:20]
     response = client.chat.completions.create(
