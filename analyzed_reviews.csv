@@ -1,0 +1,51 @@
+sentiment,score,theme,summary,review_id,original_score
+positive,8,dog food quality,High quality dog food that even finicky dogs enjoy.,0,5
+negative,2,product description,Misleading labeling of product as 'Jumbo Salted Peanuts'.,1,1
+positive,9,confectionery delight,A heavenly confection that is highly recommended.,2,4
+neutral,6,product flavor,The reviewer found the flavor of the product to be medicinal when making cherry soda.,3,2
+positive,9,taffy variety,Great variety of taffy at a great price with quick delivery.,4,5
+positive,8,Taffy flavor variety,"Delightful taffy with a wide range of flavors, only complaint was too much licorice.",5,4
+positive,9,saltwater taffy,"Delicious and well-packaged saltwater taffy, perfect for a beach-themed party!",6,5
+positive,9,taffy quality,"Delicious taffy with amazing flavors, highly recommend.",7,5
+positive,8,cat grass,Great product for growing cat grass that cats love.,8,5
+positive,9,healthy dog food,"Great for digestion and small puppies, my dog loves it.",9,5
+positive,9,hot sauce,Unique and delicious hot sauce that is worth ordering online for hot sauce lovers.,10,5
+positive,8,pet weight management,Effective for helping obese pets lose weight,11,5
+negative,3,formula change,"Cats refuse to eat after formula change, need to find new food.",12,1
+positive,9,flavor and freshness,Delicious and fresh Twizzlers with a good flavor.,13,4
+positive,8,Strawberry Twizzlers,Delicious treat for me and my son to enjoy together.,14,5
+positive,8,Twizzlers,Satisfying shipment of strawberry Twizzlers for a Twizzler lover.,15,5
+positive,8,snacking convenience,"Delicious snack that is not too sweet, great for watching TV and movies.",16,2
+positive,9,satisfaction,"Highly satisfied with Twizzler purchase, will order more.",17,5
+positive,8,Twizzlers candy,Delicious childhood favorite candy with a variety of flavors to enjoy.,18,5
+positive,8,delivery speed and convenience,Fast delivery and reasonable price made it perfect for someone home bound.,19,5
+positive,9,Twizzlers addiction,"Fresh and tasty Twizzlers, perfect for government employees living overseas",20,5
+positive,9,Twizzlers candy,"Great quality and value for the price, loved by husband and his staff.",21,5
+positive,9,candy quality,Consistent and high quality candy that has maintained excellence over the years.,22,5
+positive,8,candy cravings,Delicious candy that satisfies cravings even after weight loss efforts.,23,5
+positive,8,Twizzlers cravings,The reviewer misses Twizzlers and loves them.,24,5
+positive,8,product received,"As advertised Twizzlers, Strawberry, 16-Ounce Bags (Pack of 6) received.",25,5
+negative,2,candy quality,Disappointing candy with no flavor.,26,1
+positive,8,battery availability,Easy to find unique size batteries for garage door opener on Amazon at a great price.,27,4
+positive,9,sugar-free toffees,Delicious sugar-free toffees that taste like the real thing.,28,5
+positive,9,hot sauce,Unique and delicious hot sauce that is worth ordering online for fans of spicy flavors.,29,5
+positive,9,coffee machine,Highly recommended coffee machine with excellent quality and easy to use features.,30,5
+positive,9,price and taste,"Great price and great taste, thanks Amazon!",31,5
+positive,7,instant oatmeal,"McCann's Instant Oatmeal is convenient and tasty, better than other instant and organic brands.",32,4
+positive,9,oatmeal review,High quality instant oatmeal from a reputable brand with delicious flavors and healthier sugar option.,33,4
+positive,9,oatmeal,"McCann's Instant Oatmeal holds its texture, has excellent flavor, and is good for you all at the same time.",34,5
+positive,9,Instant Oatmeal,"McCann's Instant Irish Oatmeal is a hearty and easily digestible meal, great for post-bariatric surgery patients.",35,4
+positive,10,gluten-free oatmeal,"Great product for celiac disease sufferers, affordable and delicious.",36,5
+positive,7,convenience and taste,"Convenient and tasty instant oatmeal option, slightly pricier than store brand.",37,5
+positive,8,McCann's Instant Irish Oatmeal,Delicious and versatile instant oatmeal great for breakfast,38,4
+positive,9,McCANN'S Instant Irish Oatmeal,Delicious variety pack enjoyed by wife daily,39,5
+positive,9,meal variety packs,Great tasting variety packs at an affordable price that expand when mixed with boiling water.,40,5
+positive,9,McCann's oatmeal variety pack,McCann's offers a variety of delicious oatmeal options to suit every preference.,41,5
+positive,9,McCann's Oatmeal,Delicious and healthy oatmeal at a great price,42,5
+positive,8,McCann's Oatmeal,Delicious and quick breakfast option with no added sugar.,43,5
+positive,8,McCann's steel cut oats,Tasty and convenient option for regular oatmeal consumption.,44,5
+negative,4,taste quality,Not flavorful enough and too mushy for kids' liking.,45,3
+positive,8,oatmeal preference,"Delicious oatmeal, especially apple cinnamon flavor, but instructions make it too soupy for my taste.",46,5
+neutral,5,flavor comparison,Decent flavors but similar in texture to Oaker Oats brand.,47,3
+positive,8,breakfast options,"Delighted with Maple and Brown Sugar flavor, will reorder only that variety for breakfast.",48,4
+negative,2,product quality,Not healthy and lacks taste.,49,3
