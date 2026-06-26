@@ -1,0 +1,4 @@
+Reviews.csv
+*.pkl
+__pycache__/
+.env
